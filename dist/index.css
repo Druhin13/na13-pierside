@@ -1,2 +1,2 @@
-
+.d-stamp-stickers{display:none!important}.d-stamp-sticker{position:absolute!important;left:0!important;top:0!important;z-index:100!important;pointer-events:none!important;transform:scale(.8);transition-property:transform;transition-duration:.2s;transition-timing-function:ease}.sticker-hide{transform:scale(0)!important}.overflow{overflow-x:hidden!important;position:relative!important}
 /*# sourceMappingURL=/index.css.map */
