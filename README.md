@@ -14,7 +14,7 @@
 ```
 
 ```
-<script src="https://na13-pierside.vercel.app/src/js/weather-min.js"></script>
+<script src="https://na13-pierside.vercel.app/src/js/popup.js"></script>
 ```
 
 ```
